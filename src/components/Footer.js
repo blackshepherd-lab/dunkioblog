@@ -45,6 +45,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+      </div>
       </footer>
     )
   }
