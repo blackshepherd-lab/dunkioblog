@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Dunk.io blog - for growing SaaS companies - Dunk.io blog
+title: Dunk.io blog - for growing SaaS companies
 image: /img/home-jumbotron.jpg
 heading: Dunk blog - for growing SaaS companies
 subheading: tactics for accelerating revenue
