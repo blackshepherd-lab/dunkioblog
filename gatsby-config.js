@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Dunk.io Blog - for growing SaaS companies',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Dunk helps SaaS companies grow their revenue, this blog is all about collecting the best information to help SaaS founders do that',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
