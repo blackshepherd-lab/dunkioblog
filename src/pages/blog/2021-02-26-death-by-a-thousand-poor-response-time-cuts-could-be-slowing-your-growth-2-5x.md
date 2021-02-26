@@ -11,7 +11,7 @@ description: >-
 
   Somehow software companies think the rules don't apply to them, and they can keep customers waiting 24 hours or more, and sometimes up to a week.
 featuredpost: true
-featuredimage: https://b-i.forbesimg.com/kenkrogue/files/2013/11/response-time-from-creation-by-5-min-increments-initial-dals-to-leads-that-become-qualified.jpg
+featuredimage: /img/res.jpg
 ---
 We know intuitively that response times for sales requests need to be fast.
 
