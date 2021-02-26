@@ -11,7 +11,7 @@ description: >-
 
 
   You paid for traffic - either in valuable time, or in online ads. Either way, you paid for it.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/trash.png
 ---
 You have spent countless hours and thousands of dollars launching a digital product or SaaS.
