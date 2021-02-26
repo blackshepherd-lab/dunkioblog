@@ -12,6 +12,8 @@ description: >-
   3. Give us access to live chat transcripts and systems (e.g Intercom, Drift, Crisp)
 featuredpost: false
 featuredimage: /img/oldbook.jpeg
+tags:
+  - Demo
 ---
 When we start with a new client on our Instant Demo service, we need to ensure we have 95%+ of the information required to answer almost any question you will ever get about the product.
 
