@@ -12,7 +12,7 @@ description: >-
 
   You paid for traffic - either in valuable time, or in online ads. Either way, you paid for it.
 featuredpost: true
-featuredimage: https://www.prospectmagazine.co.uk/content/uploads/2019/08/menaretrash.png
+featuredimage: /img/trash.png
 ---
 You have spent countless hours and thousands of dollars launching a digital product or SaaS.
 
