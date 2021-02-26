@@ -10,7 +10,7 @@ description: >-
 
 
   **This means you take the list of 100 things that you could be working on at any given time, and throw out 97 of them.**
-featuredpost: true
+featuredpost: false
 featuredimage: /img/lifesaver.jpeg
 ---
 Are you a startup founder? 
