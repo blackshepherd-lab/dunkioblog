@@ -10,7 +10,7 @@ description: >-
   2. Share your tech support / help desk ticketing system  (e.g Zendesk, Freshdesk, etc)
 
   3. Give us access to live chat transcripts and systems (e.g Intercom, Drift, Crisp)
-featuredpost: true
+featuredpost: false
 featuredimage: /img/oldbook.jpeg
 ---
 When we start with a new client on our Instant Demo service, we need to ensure we have 95%+ of the information required to answer almost any question you will ever get about the product.
